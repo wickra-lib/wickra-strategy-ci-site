@@ -49,6 +49,13 @@
     "height": 20
   },
   {
+    "alt": "NuGet",
+    "href": "https://www.nuget.org/packages/Wickra.StrategyCi",
+    "file": "/badges/nuget.svg",
+    "width": 103,
+    "height": 20
+  },
+  {
     "alt": "Maven Central",
     "href": "https://central.sonatype.com/artifact/org.wickra/wickra-strategy-ci",
     "file": "/badges/maven.svg",
