@@ -123,7 +123,7 @@ export default defineConfig({
         items: [
           { text: 'Release notes', link: 'https://github.com/wickra-lib/wickra-strategy-ci/releases' },
           { text: 'Changelog', link: 'https://github.com/wickra-lib/wickra-strategy-ci/blob/main/CHANGELOG.md' },
-          { text: 'docs.rs', link: 'https://docs.rs/wickra-strategy-ci/latest/wickra_strategy_ci/' },
+          { text: 'docs.rs', link: 'https://docs.rs/wickra-strategy-ci-core/latest/wickra_strategy_ci_core/' },
         ],
       },
       {

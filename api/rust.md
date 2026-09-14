@@ -43,6 +43,6 @@ produce the same bytes — every binding checks that.
 
 ## More
 
-- [crates.io/crates/wickra-strategy-ci](https://crates.io/crates/wickra-strategy-ci) · [docs.rs](https://docs.rs/wickra-strategy-ci)
+- [crates.io/crates/wickra-strategy-ci-cli](https://crates.io/crates/wickra-strategy-ci-cli) (the CLI) · [crates.io/crates/wickra-strategy-ci-core](https://crates.io/crates/wickra-strategy-ci-core) · [docs.rs](https://docs.rs/wickra-strategy-ci-core)
 - [Source & examples](https://github.com/wickra-lib/wickra-strategy-ci/tree/main/examples)
 - [The test format](https://github.com/wickra-lib/wickra-strategy-ci/blob/main/docs/TESTS.md)
