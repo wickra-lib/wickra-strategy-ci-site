@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://strategy-ci.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.webp?v=514-7" alt="Wickra Strategy-CI — jest for trading strategies: golden-pin the report, catch regressions in CI, property-test against fuzzed data" width="100%"></a>
+  <a href="https://strategy-ci.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.svg?v=514-8" alt="Wickra Strategy-CI — jest for trading strategies: golden-pin the report, catch regressions in CI, property-test against fuzzed data" width="100%"></a>
 </p>
 
 [![Built on Wickra](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-strategy-ci-site/built-on.svg)](https://github.com/wickra-lib/wickra)
