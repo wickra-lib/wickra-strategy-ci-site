@@ -7,7 +7,7 @@ no JNI shim to build. Targets Java 22 and newer.
 <dependency>
   <groupId>org.wickra</groupId>
   <artifactId>wickra-strategy-ci</artifactId>
-  <version>0.1.6</version>
+  <version>0.2.0</version>
 </dependency>
 ```
 
