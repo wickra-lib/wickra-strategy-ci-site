@@ -1,7 +1,7 @@
 {
   "name": "Wickra Strategy-CI",
   "short_name": "Wickra Strategy-CI",
-  "description": "Golden-pin your strategy's backtest report and catch regressions in CI.",
+  "description": "Jest for trading strategies: golden-pin the report, catch regressions in CI, property-test against fuzzed data.",
   "icons": [
     { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
